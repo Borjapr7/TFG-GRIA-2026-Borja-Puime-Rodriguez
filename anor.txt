@@ -1,0 +1,104 @@
+Have you been deliberately trying to limit the amount of food you eat to influence your shape or weight (whether or not you have succeeded)?
+Have you been deliberately trying to [MASK] the amount of food you eat to influence your shape or weight (whether or not you have succeeded)?
+Have you been deliberately trying to limit the amount of [MASK] you eat to influence your shape or weight (whether or not you have succeeded)?
+Have you been deliberately trying to limit the amount of food you eat to influence your [MASK] or weight (whether or not you have succeeded)?
+
+Have you gone for long periods of time (8 waking hours or more) without eating anything at all in order to influence your shape or weight?
+Have you gone for long periods of time (8 waking hours or more) without [MASK] anything at all in order to influence your shape or weight?
+Have you gone for long periods of time (8 waking hours or more) without eating anything at all in order to influence your [MASK] or weight?
+Have you gone for long periods of time (8 waking hours or more) without eating anything at all in order to influence your shape or [MASK]?
+
+Have you tried to exclude from your diet any foods that you like in order to influence your shape or weight (whether or not you have succeeded)?
+Have you tried to [MASK] from your diet any foods that you like in order to influence your shape or weight (whether or not you have succeeded)?
+Have you tried to exclude from your [MASK] any foods that you like in order to influence your shape or weight (whether or not you have succeeded)?
+Have you tried to exclude from your diet any foods that you like in order to influence your [MASK] or weight (whether or not you have succeeded)?
+
+Have you tried to follow definite rules regarding your eating (for example, a calorie limit) in order to influence your shape or weight (whether or not you have succeeded)?
+Have you tried to follow definite [MASK] regarding your eating (for example, a calorie limit) in order to influence your shape or weight (whether or not you have succeeded)?
+Have you tried to follow definite rules regarding your [MASK] (for example, a calorie limit) in order to influence your shape or weight (whether or not you have succeeded)?
+Have you tried to follow definite rules regarding your eating (for example, a [MASK] limit) in order to influence your shape or weight (whether or not you have succeeded)?
+
+Have you had a definite desire to have an empty stomach with the aim of influencing your shape or weight?
+Have you had a definite desire to have an [MASK] stomach with the aim of influencing your shape or weight?
+Have you had a definite desire to have an empty [MASK] with the aim of influencing your shape or weight?
+Have you had a definite desire to have an empty stomach with the aim of influencing your [MASK] or weight?
+
+Have you had a definite desire to have a totally flat stomach?
+Have you had a definite desire to have a totally [MASK] stomach?
+Have you had a definite desire to have a totally flat [MASK]?
+
+Has thinking about food, eating or calories made it very difficult to concentrate on things you are interested in (for example, working, following a conversation, or reading)?
+Has thinking about [MASK], eating or calories made it very difficult to concentrate on things you are interested in (for example, working, following a conversation, or reading)?
+Has thinking about food, eating or [MASK] made it very difficult to concentrate on things you are interested in (for example, working, following a conversation, or reading)?
+Has thinking about food, eating or calories made it very difficult to [MASK] on things you are interested in (for example, working, following a conversation, or reading)?
+
+Has thinking about shape or weight made it very difficult to concentrate on things you are interested in (for example, working, following a conversation, or reading)?
+Has thinking about [MASK] or weight made it very difficult to concentrate on things you are interested in (for example, working, following a conversation, or reading)?
+Has thinking about shape or [MASK] made it very difficult to concentrate on things you are interested in (for example, working, following a conversation, or reading)?
+Has thinking about shape or weight made it very difficult to [MASK] on things you are interested in (for example, working, following a conversation, or reading)?
+
+Have you had a definite fear of losing control over eating?
+Have you had a definite [MASK] of losing control over eating?
+Have you had a definite fear of losing [MASK] over eating?
+Have you had a definite fear of losing control over [MASK]?
+
+Have you had a definite fear that you might gain weight?
+Have you had a definite [MASK] that you might gain weight?
+Have you had a definite fear that you might [MASK] weight?
+Have you had a definite fear that you might gain [MASK]?
+
+Have you felt fat?
+Have you [MASK] fat?
+Have you felt [MASK]?
+
+Have you had a strong desire to lose weight?
+Have you had a strong [MASK] to lose weight?
+Have you had a strong desire to [MASK] weight?
+Have you had a strong desire to lose [MASK]?
+
+Over the past 28 days, on how many days have you eaten in secret (ie, furtively)? ... Do not count episodes of binge eating.
+Over the past 28 days, on how many days have you [MASK] in secret (ie, furtively)? ... Do not count episodes of binge eating.
+Over the past 28 days, on how many days have you eaten in [MASK] (ie, furtively)? ... Do not count episodes of binge eating.
+Over the past 28 days, on how many days have you eaten in secret (ie, furtively)? ... Do not count episodes of [MASK] eating.
+
+On what proportion of the times that you have eaten have you felt guilty (felt that you’ve done wrong) because of its effect on your shape or weight? ... Do not count episodes of binge eating.
+On what proportion of the times that you have eaten have you felt [MASK] (felt that you’ve done wrong) because of its effect on your shape or weight? ... Do not count episodes of binge eating.
+On what proportion of the times that you have eaten have you felt guilty (felt that you’ve done wrong) because of its effect on your [MASK] or weight? ... Do not count episodes of binge eating.
+On what proportion of the times that you have eaten have you felt guilty (felt that you’ve done wrong) because of its effect on your shape or [MASK]? ... Do not count episodes of binge eating.
+
+Over the past 28 days, how concerned have you been about other people seeing you eat? ... Do not count episodes of binge eating.
+Over the past 28 days, how [MASK] have you been about other people seeing you eat? ... Do not count episodes of binge eating.
+Over the past 28 days, how concerned have you been about other people [MASK] you eat? ... Do not count episodes of binge eating.
+Over the past 28 days, how concerned have you been about other people seeing you [MASK]? ... Do not count episodes of binge eating.
+
+Has your weight influenced how you think about (judge) yourself as a person? 
+Has your [MASK] influenced how you think about (judge) yourself as a person? 
+Has your weight [MASK] how you think about (judge) yourself as a person? 
+Has your weight influenced how you [MASK] about (judge) yourself as a person? 
+
+Has your shape influenced how you think about (judge) yourself as a person?  
+Has your [MASK] influenced how you think about (judge) yourself as a person?  
+Has your shape [MASK] how you think about (judge) yourself as a person?  
+Has your shape influenced how you [MASK] about (judge) yourself as a person?  
+
+How much would it have upset you if you had been asked to weigh yourself once a week (no more, or less, often) for the next four weeks? 
+How much would it have [MASK] you if you had been asked to weigh yourself once a week (no more, or less, often) for the next four weeks? 
+How much would it have upset you if you had been asked to [MASK] yourself once a week (no more, or less, often) for the next four weeks? 
+
+How dissatisfied have you been with your weight? 
+How [MASK] have you been with your weight? 
+How dissatisfied have you been with your [MASK]? 
+
+How dissatisfied have you been with your shape?
+How [MASK] have you been with your shape?
+How dissatisfied have you been with your [MASK]?
+
+How uncomfortable have you felt seeing your body (for example, seeing your shape in the mirror, in a shop window reflection, while undressing or taking a bath or shower)? 
+How [MASK] have you felt seeing your body (for example, seeing your shape in the mirror, in a shop window reflection, while undressing or taking a bath or shower)? 
+How uncomfortable have you felt seeing your [MASK] (for example, seeing your shape in the mirror, in a shop window reflection, while undressing or taking a bath or shower)? 
+How uncomfortable have you felt seeing your body (for example, seeing your [MASK] in the mirror, in a shop window reflection, while undressing or taking a bath or shower)? 
+
+How uncomfortable have you felt about others seeing your shape or figure (for example, in communal changing rooms, when swimming, or wearing tight clothes)? 
+How [MASK] have you felt about others seeing your shape or figure (for example, in communal changing rooms, when swimming, or wearing tight clothes)? 
+How uncomfortable have you felt about others seeing your [MASK] or figure (for example, in communal changing rooms, when swimming, or wearing tight clothes)? 
+How uncomfortable have you felt about others seeing your shape or [MASK] (for example, in communal changing rooms, when swimming, or wearing tight clothes)?
